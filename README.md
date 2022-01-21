@@ -17,3 +17,5 @@
 </div>
   
   ##
+  
+  ![Snake animation](https://github.com/moabedebug/moabedebug/blob/output/github-contribution-grid-snake.svg)
